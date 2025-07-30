@@ -40,14 +40,4 @@
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical" alt="[YOUR-USERNAME]'s GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=radical" alt="GitHub Streak" />
-</p>
 
